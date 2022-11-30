@@ -1,0 +1,16 @@
+h1 {
+  color: #ca1d82; }
+
+h2 {
+  color: #40dd55; }
+
+.user-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 4px;
+  object-fit: cover; }
+
+.checkbox-select-all-options {
+  width: 160px;
+  margin: 0 16px; }
